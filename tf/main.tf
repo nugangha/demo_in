@@ -1,1 +1,3 @@
-# main file
+module "my-demo" {
+    source = "../tf"
+}
